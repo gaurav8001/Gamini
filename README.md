@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gamini - Indian Railways Train Details Website
 # Overview
 
@@ -39,3 +40,6 @@ Used IRCTC rapid api for fetching realtime train data to webpage
 
 
 **NOTE**:: the live webpage may not work coz the api has only 25 requests/month
+=======
+# Gamini
+>>>>>>> de8cc97477e4e99462c231689d94bfbd2a87fbd3
